@@ -1,0 +1,920 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -9195060462758659761
+  },
+  "m_Name": "ItemParameterTextFormat",
+  "formatData": [
+    {
+      "format": "",
+      "paramId": []
+    },
+    {
+      "format": "［成長日数］{0}日",
+      "paramId": [
+        1
+      ]
+    },
+    {
+      "format": "［収穫数］{0}個",
+      "paramId": [
+        2
+      ]
+    },
+    {
+      "format": "［作物売値］{0}G",
+      "paramId": [
+        3
+      ]
+    },
+    {
+      "format": "水残量：{0}",
+      "paramId": [
+        4
+      ]
+    },
+    {
+      "format": "［サイズ］{0}.{1}cm",
+      "paramId": [
+        5
+      ]
+    },
+    {
+      "format": "ＨＰ回復{0}",
+      "paramId": [
+        6
+      ]
+    },
+    {
+      "format": "ＨＰ回復{0}％",
+      "paramId": [
+        7
+      ]
+    },
+    {
+      "format": "ＲＰ回復{0}",
+      "paramId": [
+        8
+      ]
+    },
+    {
+      "format": "ＲＰ回復{0}％",
+      "paramId": [
+        9
+      ]
+    },
+    {
+      "format": "",
+      "paramId": []
+    },
+    {
+      "format": "［効果時間］{0}時間",
+      "paramId": [
+        10
+      ]
+    },
+    {
+      "format": "ＨＰ上限{0}",
+      "paramId": [
+        11
+      ]
+    },
+    {
+      "format": "ＨＰ上限{0}％",
+      "paramId": [
+        12
+      ]
+    },
+    {
+      "format": "ＲＰ上限{0}",
+      "paramId": [
+        13
+      ]
+    },
+    {
+      "format": "ＲＰ上限{0}％",
+      "paramId": [
+        14
+      ]
+    },
+    {
+      "format": "筋力{0}",
+      "paramId": [
+        15
+      ]
+    },
+    {
+      "format": "筋力{0}％",
+      "paramId": [
+        16
+      ]
+    },
+    {
+      "format": "知力{0}",
+      "paramId": [
+        17
+      ]
+    },
+    {
+      "format": "知力{0}％",
+      "paramId": [
+        18
+      ]
+    },
+    {
+      "format": "体力{0}",
+      "paramId": [
+        19
+      ]
+    },
+    {
+      "format": "体力{0}％",
+      "paramId": [
+        20
+      ]
+    },
+    {
+      "format": "",
+      "paramId": []
+    },
+    {
+      "format": "",
+      "paramId": []
+    },
+    {
+      "format": "",
+      "paramId": []
+    },
+    {
+      "format": "",
+      "paramId": []
+    },
+    {
+      "format": "",
+      "paramId": []
+    },
+    {
+      "format": "",
+      "paramId": []
+    },
+    {
+      "format": "",
+      "paramId": []
+    },
+    {
+      "format": "",
+      "paramId": []
+    },
+    {
+      "format": "",
+      "paramId": []
+    },
+    {
+      "format": "",
+      "paramId": []
+    },
+    {
+      "format": "",
+      "paramId": []
+    },
+    {
+      "format": "",
+      "paramId": []
+    },
+    {
+      "format": "",
+      "paramId": []
+    },
+    {
+      "format": "",
+      "paramId": []
+    },
+    {
+      "format": "",
+      "paramId": []
+    },
+    {
+      "format": "",
+      "paramId": []
+    },
+    {
+      "format": "",
+      "paramId": []
+    },
+    {
+      "format": "",
+      "paramId": []
+    },
+    {
+      "format": "",
+      "paramId": []
+    },
+    {
+      "format": "",
+      "paramId": []
+    },
+    {
+      "format": "",
+      "paramId": []
+    },
+    {
+      "format": "",
+      "paramId": []
+    },
+    {
+      "format": "",
+      "paramId": []
+    },
+    {
+      "format": "",
+      "paramId": []
+    },
+    {
+      "format": "",
+      "paramId": []
+    },
+    {
+      "format": "",
+      "paramId": []
+    },
+    {
+      "format": "",
+      "paramId": []
+    },
+    {
+      "format": "",
+      "paramId": []
+    },
+    {
+      "format": "［属性］{0}{1}{2}{3}{4}{5}{6}",
+      "paramId": [
+        21
+      ]
+    },
+    {
+      "format": "攻{0}",
+      "paramId": [
+        22
+      ]
+    },
+    {
+      "format": "魔攻{0}",
+      "paramId": [
+        23
+      ]
+    },
+    {
+      "format": "防{0}",
+      "paramId": [
+        24
+      ]
+    },
+    {
+      "format": "魔防{0}",
+      "paramId": [
+        25
+      ]
+    },
+    {
+      "format": "筋力{0}",
+      "paramId": [
+        26
+      ]
+    },
+    {
+      "format": "知力{0}",
+      "paramId": [
+        27
+      ]
+    },
+    {
+      "format": "体力{0}",
+      "paramId": [
+        28
+      ]
+    },
+    {
+      "format": "スタン{0}",
+      "paramId": [
+        29
+      ]
+    },
+    {
+      "format": "CRIT{0}％",
+      "paramId": [
+        30
+      ]
+    },
+    {
+      "format": "吹飛{0}％",
+      "paramId": [
+        31
+      ]
+    },
+    {
+      "format": "硬直{0}％",
+      "paramId": [
+        32
+      ]
+    },
+    {
+      "format": "毒攻{0}％",
+      "paramId": [
+        33
+      ]
+    },
+    {
+      "format": "封攻{0}％",
+      "paramId": [
+        34
+      ]
+    },
+    {
+      "format": "マヒ攻{0}％",
+      "paramId": [
+        35
+      ]
+    },
+    {
+      "format": "眠攻{0}％",
+      "paramId": [
+        36
+      ]
+    },
+    {
+      "format": "疲攻{0}％",
+      "paramId": [
+        37
+      ]
+    },
+    {
+      "format": "病攻{0}％",
+      "paramId": [
+        38
+      ]
+    },
+    {
+      "format": "気絶攻{0}％",
+      "paramId": [
+        39
+      ]
+    },
+    {
+      "format": "吸{0}％",
+      "paramId": [
+        40
+      ]
+    },
+    {
+      "format": "火抵：{0}%",
+      "paramId": [
+        41
+      ]
+    },
+    {
+      "format": "水抵：{0}%",
+      "paramId": [
+        42
+      ]
+    },
+    {
+      "format": "地抵：{0}%",
+      "paramId": [
+        43
+      ]
+    },
+    {
+      "format": "風抵：{0}%",
+      "paramId": [
+        44
+      ]
+    },
+    {
+      "format": "光抵：{0}%",
+      "paramId": [
+        45
+      ]
+    },
+    {
+      "format": "闇抵：{0}%",
+      "paramId": [
+        46
+      ]
+    },
+    {
+      "format": "愛抵：{0}%",
+      "paramId": [
+        47
+      ]
+    },
+    {
+      "format": "無抵：{0}%",
+      "paramId": [
+        48
+      ]
+    },
+    {
+      "format": "スタン抵{0}％",
+      "paramId": [
+        49
+      ]
+    },
+    {
+      "format": "CRIT抵{0}％",
+      "paramId": [
+        50
+      ]
+    },
+    {
+      "format": "吹飛抵{0}％",
+      "paramId": [
+        51
+      ]
+    },
+    {
+      "format": "毒抵{0}％",
+      "paramId": [
+        52
+      ]
+    },
+    {
+      "format": "封印抵{0}％",
+      "paramId": [
+        53
+      ]
+    },
+    {
+      "format": "マヒ抵{0}％",
+      "paramId": [
+        54
+      ]
+    },
+    {
+      "format": "睡眠抵{0}％",
+      "paramId": [
+        55
+      ]
+    },
+    {
+      "format": "疲労抵{0}％",
+      "paramId": [
+        56
+      ]
+    },
+    {
+      "format": "病気抵{0}％",
+      "paramId": [
+        57
+      ]
+    },
+    {
+      "format": "気絶抵{0}％",
+      "paramId": [
+        58
+      ]
+    },
+    {
+      "format": "吸収抵{0}％",
+      "paramId": [
+        59
+      ]
+    },
+    {
+      "format": "チャージ速度{0}％",
+      "paramId": [
+        60
+      ]
+    },
+    {
+      "format": "攻{0}",
+      "paramId": [
+        61
+      ]
+    },
+    {
+      "format": "魔攻{0}",
+      "paramId": [
+        62
+      ]
+    },
+    {
+      "format": "防{0}",
+      "paramId": [
+        63
+      ]
+    },
+    {
+      "format": "魔防{0}",
+      "paramId": [
+        64
+      ]
+    },
+    {
+      "format": "筋力{0}",
+      "paramId": [
+        65
+      ]
+    },
+    {
+      "format": "知力{0}",
+      "paramId": [
+        66
+      ]
+    },
+    {
+      "format": "体力{0}",
+      "paramId": [
+        67
+      ]
+    },
+    {
+      "format": "スタン{0}",
+      "paramId": [
+        68
+      ]
+    },
+    {
+      "format": "CRIT{0}％",
+      "paramId": [
+        69
+      ]
+    },
+    {
+      "format": "吹飛{0}％",
+      "paramId": [
+        70
+      ]
+    },
+    {
+      "format": "硬直時間{0}％",
+      "paramId": [
+        71
+      ]
+    },
+    {
+      "format": "毒攻撃{0}％",
+      "paramId": [
+        72
+      ]
+    },
+    {
+      "format": "封印攻撃{0}％",
+      "paramId": [
+        73
+      ]
+    },
+    {
+      "format": "マヒ攻撃{0}％",
+      "paramId": [
+        74
+      ]
+    },
+    {
+      "format": "睡眠攻撃{0}％",
+      "paramId": [
+        75
+      ]
+    },
+    {
+      "format": "疲労攻撃{0}％",
+      "paramId": [
+        76
+      ]
+    },
+    {
+      "format": "病気攻撃{0}％",
+      "paramId": [
+        77
+      ]
+    },
+    {
+      "format": "気絶攻撃{0}％",
+      "paramId": [
+        78
+      ]
+    },
+    {
+      "format": "吸収攻撃{0}％",
+      "paramId": [
+        79
+      ]
+    },
+    {
+      "format": "スタン抵抗{0}％",
+      "paramId": [
+        80
+      ]
+    },
+    {
+      "format": "CRIT抵抗{0}％",
+      "paramId": [
+        81
+      ]
+    },
+    {
+      "format": "吹飛抵抗{0}％",
+      "paramId": [
+        82
+      ]
+    },
+    {
+      "format": "毒抵抗{0}％",
+      "paramId": [
+        83
+      ]
+    },
+    {
+      "format": "封印抵抗{0}％",
+      "paramId": [
+        84
+      ]
+    },
+    {
+      "format": "マヒ抵抗{0}％",
+      "paramId": [
+        85
+      ]
+    },
+    {
+      "format": "睡眠抵抗{0}％",
+      "paramId": [
+        86
+      ]
+    },
+    {
+      "format": "疲労抵抗{0}％",
+      "paramId": [
+        87
+      ]
+    },
+    {
+      "format": "病気抵抗{0}％",
+      "paramId": [
+        88
+      ]
+    },
+    {
+      "format": "気絶抵抗{0}％",
+      "paramId": [
+        89
+      ]
+    },
+    {
+      "format": "吸収抵抗{0}％",
+      "paramId": [
+        90
+      ]
+    },
+    {
+      "format": "［難しさ］{0}",
+      "paramId": [
+        91
+      ]
+    },
+    {
+      "format": "",
+      "paramId": []
+    },
+    {
+      "format": "",
+      "paramId": []
+    },
+    {
+      "format": "",
+      "paramId": []
+    },
+    {
+      "format": "",
+      "paramId": []
+    },
+    {
+      "format": "",
+      "paramId": []
+    },
+    {
+      "format": "",
+      "paramId": []
+    },
+    {
+      "format": "",
+      "paramId": []
+    },
+    {
+      "format": "{0}",
+      "paramId": [
+        0
+      ]
+    },
+    {
+      "format": "★自作",
+      "paramId": []
+    },
+    {
+      "format": "回復:{0}{1}{2}{3}{4}{5}",
+      "paramId": [
+        0
+      ]
+    },
+    {
+      "format": "状態異常:{0}{1}{2}{3}{4}{5}",
+      "paramId": [
+        0
+      ]
+    },
+    {
+      "format": "回復:{0}{1}{2}{3}{4}{5} 状態異常:{6}{7}{8}{9}{10}{11}",
+      "paramId": [
+        0
+      ]
+    },
+    {
+      "format": "火",
+      "paramId": []
+    },
+    {
+      "format": "水",
+      "paramId": []
+    },
+    {
+      "format": "地",
+      "paramId": []
+    },
+    {
+      "format": "風",
+      "paramId": []
+    },
+    {
+      "format": "光",
+      "paramId": []
+    },
+    {
+      "format": "闇",
+      "paramId": []
+    },
+    {
+      "format": "愛",
+      "paramId": []
+    },
+    {
+      "format": "無",
+      "paramId": []
+    },
+    {
+      "format": "-100",
+      "paramId": []
+    },
+    {
+      "format": "-75",
+      "paramId": []
+    },
+    {
+      "format": "-50",
+      "paramId": []
+    },
+    {
+      "format": "(使用していない)",
+      "paramId": []
+    },
+    {
+      "format": "半減",
+      "paramId": []
+    },
+    {
+      "format": "75",
+      "paramId": []
+    },
+    {
+      "format": "無効",
+      "paramId": []
+    },
+    {
+      "format": "吸収",
+      "paramId": []
+    },
+    {
+      "format": "毒",
+      "paramId": []
+    },
+    {
+      "format": "マヒ",
+      "paramId": []
+    },
+    {
+      "format": "封",
+      "paramId": []
+    },
+    {
+      "format": "眠",
+      "paramId": []
+    },
+    {
+      "format": "疲",
+      "paramId": []
+    },
+    {
+      "format": "病",
+      "paramId": []
+    },
+    {
+      "format": "全て",
+      "paramId": []
+    },
+    {
+      "format": "毒抵{0}％",
+      "paramId": [
+        0
+      ]
+    },
+    {
+      "format": "マヒ抵{0}％",
+      "paramId": [
+        0
+      ]
+    },
+    {
+      "format": "封抵{0}％",
+      "paramId": [
+        0
+      ]
+    },
+    {
+      "format": "眠抵{0}％",
+      "paramId": [
+        0
+      ]
+    },
+    {
+      "format": "疲抵{0}％",
+      "paramId": [
+        0
+      ]
+    },
+    {
+      "format": "病抵{0}％",
+      "paramId": [
+        0
+      ]
+    },
+    {
+      "format": "気絶抵{0}％",
+      "paramId": [
+        0
+      ]
+    },
+    {
+      "format": "毒攻{0}％",
+      "paramId": [
+        0
+      ]
+    },
+    {
+      "format": "マヒ攻{0}％",
+      "paramId": [
+        0
+      ]
+    },
+    {
+      "format": "封攻{0}％",
+      "paramId": [
+        0
+      ]
+    },
+    {
+      "format": "眠攻{0}％",
+      "paramId": [
+        0
+      ]
+    },
+    {
+      "format": "疲攻{0}％",
+      "paramId": [
+        0
+      ]
+    },
+    {
+      "format": "病攻{0}％",
+      "paramId": [
+        0
+      ]
+    },
+    {
+      "format": "気絶攻{0}％",
+      "paramId": [
+        0
+      ]
+    },
+    {
+      "format": "未出荷",
+      "paramId": []
+    },
+    {
+      "format": "{ERROR}",
+      "paramId": []
+    }
+  ]
+}
